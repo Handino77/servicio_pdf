@@ -1,5 +1,0 @@
-[build]
-builder = "NIXPACKS"
-
-[env]
-NIXPACKS_NODE_VERSION = "18"
